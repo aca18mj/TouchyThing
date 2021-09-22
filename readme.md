@@ -1,4 +1,5 @@
-# Touchy thing (Assignment 1)
+# Touchy thing
+An assignment for Internet of Things module at University of Sheffield
 
 ## Device :computer:
 <img src="docs/device_image_1.jpg" height="600">
